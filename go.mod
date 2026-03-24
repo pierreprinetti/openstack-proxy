@@ -1,10 +1,10 @@
 module github.com/pierreprinetti/openstack-proxy
 
-go 1.22
+go 1.25.0
 
 require (
 	github.com/gofrs/uuid/v5 v5.4.0
-	github.com/gophercloud/gophercloud/v2 v2.10.0
+	github.com/gophercloud/gophercloud/v2 v2.11.1
 )
 
 require gopkg.in/yaml.v2 v2.4.0
